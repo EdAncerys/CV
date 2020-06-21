@@ -1,4 +1,4 @@
-## Edvinas Ancerys
+## Ed Ancerys
 
 Highly qualified, tenacious, and well-accomplished professional armed with broad-based background and skills in the areas of retail management in early 2020 I took up the well-known [**Makers Academy**][2] web development course, where I learned the fundamentals of software development by working on different, challenging projects in teams.
 
@@ -31,10 +31,11 @@ I am currently looking to take on a career in the tech scene, where I can furthe
 
 ### <a id="projects">Projects & Code</a>
 
-| Project              | Description                                                                                                     | Code/Demo Links                                            | Technologies Used                                         | Testing Technologies |
-| :------------------- | :-------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------- | :-------------------------------------------------------- | -------------------- |
-| [Bank tech test][01] | Using best coding practice, OOP & TDD skills solve a challenging technical problem by writing well crafted code | [![heroku-logo][github]][01]                               | Ruby                                                      | RSpec                |
-| [acebook][02]        | Facebook app clone done by taking TDD approach                                                                  | [![heroku-logo][github]][02] [![heroku-logo][heroku]][021] | Ruby, JS, Rails, Bootstrap, Active record, Active Storage | RSpec, Capybara      |
+| Project                 | Description                                                                                                                                     | Code/Demo Links                                            | Technologies Used                                                 | Testing Technologies |
+| :---------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------- | :---------------------------------------------------------------- | -------------------- |
+| [Bank tech test][01]    | Using best coding practice, OOP & TDD skills solve a challenging technical problem by writing well crafted code                                 | [![heroku-logo][github]][01]                               | Ruby                                                              | RSpec                |
+| [acebook][02]           | Facebook app clone done by taking TDD approach                                                                                                  | [![heroku-logo][github]][02] [![heroku-logo][heroku]][021] | Ruby, JavaScript, Rails, Bootstrap, Active record, Active Storage | RSpec, Capybara      |
+| [Testing framework][03] | A testing framework for Javascript in the browser, loosely based on jasmine syntax. This was developed as an exercise while coaching at Makers. | [![heroku-logo][github]][03]                               | JavaScript                                                        | N/A                  |
 
 ### More coming up soon ...
 
@@ -135,5 +136,6 @@ Inputting design specifications into the CAD software.
 [01]: https://github.com/EdAncerys/bank_tech_test
 [02]: https://github.com/EdAncerys/acebook-HoneyBunnies
 [021]: https://acebook-honeybunnies.herokuapp.com
+[03]: https://github.com/EdAncerys/JS-Testing-Framework
 [heroku]: https://cloud.githubusercontent.com/assets/12953472/18688266/701982fc-7f7b-11e6-8971-5f1e03f554b7.png
 [github]: https://cloud.githubusercontent.com/assets/12953472/18687862/de8df31e-7f79-11e6-937c-f20c0e0ee2b4.png
