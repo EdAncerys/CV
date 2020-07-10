@@ -31,7 +31,8 @@ Recent [Makers Academy](https://makers.tech/) graduate where I have grown as a p
 [![projects](https://img.shields.io/badge/-Projects-inactive?style=for-the-badge)](#projects)
 [![education](https://img.shields.io/badge/-Education-inactive?style=for-the-badge)](#education)
 [![experience](https://img.shields.io/badge/-Experience-inactive?style=for-the-badge)](#experience)
-[![hobbies & interests](https://img.shields.io/badge/-Hobbies_and_interests-inactive?style=for-the-badge)](#hobbies-and-interests)
+[![Technical Knowledge](https://img.shields.io/badge/-Technical_Knowledge-inactive?style=for-the-badge)](#Technical-Knowledge)
+[![hobbies & interests](https://img.shields.io/badge/-Hobbies_and_interests-inactive?style=for-the-badge)](#hobbies)
 
 </div>
 
