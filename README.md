@@ -10,25 +10,11 @@
 
 </h2>
 
-I am a Full Stack developer, looking for opportunities to continue to learn, challenge myself and work with great people to build useful apps that consumers enjoy using.
+Driven and ambitious Software Developer with collaborative skills and strong attention to detail, looking for opportunities to continue to learn, challenge myself, and work with great people.
 
-I'm passionate about the intersection of technology and creativity. I am self-taught and have been working as a Web Designer for the past three years, which has allowed me to gain skills in Front-End design and implementation, as well as UI/UX design.
+I' am a strong believer in the use of agile methodologies that helps to drive and manage team projects. Enjoying challenges and don't shy away from time-consuming challenges that can deliver better results and continuous learning process it involves.
 
-I have recently completed training at Makers Academy (London's leading programming bootcamp), to learn best practices, tools and methodologies.
-
-Driven and ambitious Software Developer with collaborative skills and strong attention to detail.
-
-I' am a strong believer in the use of agile methodologies that helps to drive and manage team projects. Recent Makers Academy graduate who's looking for opportunities to continue to learn, challenge myself, and work with great people.
-
-Highly qualified, tenacious, and well-accomplished professional armed with broad-based background and skills in the areas of retail management in early 2020 I took up the well-known [**Makers Academy**][2] web development course, where I learned the fundamentals of software development by working on different, challenging projects in teams.
-
-I have become hugely passionate about writing code that is clean, tested and reusable. Grown from an interested amateur coder into a competent and confident junior developer.
-
-Experience in: Ruby, Rails, React, Node.js, Javascript, JQuery, PostgreSQL, Jasmine, RSpec, Capybara, Bootstrap, Git, Heroku.
-
-Methodologies: TDD, Agile development, XP values, team projects, code reviews, pair programming.
-
-I am currently looking to take on a career in the tech scene, where I can further expand my knowledge in full-stack development and design.
+Recent [Makers Academy](https://makers.tech/) graduate where I have grown as a person and as a developer. Learned best practices and methodologies: TDD, Agile development, XP values, team projects, code reviews, pair programming.
 
 [Skills](#skills) | [Current Projects](#projects) | [Education](#education) | [Experience](#experience) | [Hobbies](#hobbies) | [Contact](#contact)
 
