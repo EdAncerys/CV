@@ -16,7 +16,15 @@ I' am a strong believer in the use of agile methodologies that helps to drive an
 
 Recent [Makers Academy](https://makers.tech/) graduate where I have grown as a person and as a developer. Learned best practices and methodologies: TDD, Agile development, XP values, team projects, code reviews, pair programming.
 
-[Skills](#skills) | [Current Projects](#projects) | [Education](#education) | [Experience](#experience) | [Hobbies](#hobbies) | [Contact](#contact)
+<div align="center">
+
+[![skills](https://img.shields.io/badge/-Skills-inactive?style=for-the-badge)](#skills)
+[![projects](https://img.shields.io/badge/-Projects-inactive?style=for-the-badge)](#projects)
+[![education](https://img.shields.io/badge/-Education-inactive?style=for-the-badge)](#education)
+[![experience](https://img.shields.io/badge/-Experience-inactive?style=for-the-badge)](#experience)
+[![hobbies & interests](https://img.shields.io/badge/-Hobbies_and_interests-inactive?style=for-the-badge)](#hobbies-and-interests)
+
+</div>
 
 ---
 
