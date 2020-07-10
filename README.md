@@ -1,5 +1,14 @@
 # Ed Ancerys
 
+<div align="center">
+
+[![LinkedIn Profile]](https://www.linkedin.com/in/ed-a-b61a5b25/)
+[![Medium Profile]](https://medium.com/@lookatemail)
+[![Email]](mailto:lookatemail@gmail.com)
+[![CodeWars Profile]](https://www.codewars.com/users/EdAncerys)
+
+</div>
+
 <h2 align="center">
 
 <a href="https://sourcerer.io/edancerys"><img src="https://img.shields.io/badge/Ruby-533%20commits-red.svg" alt=""></a>
@@ -153,3 +162,7 @@ Inputting design specifications into the CAD software.
 [03]: https://github.com/EdAncerys/JS-Testing-Framework
 [heroku]: https://cloud.githubusercontent.com/assets/12953472/18688266/701982fc-7f7b-11e6-8971-5f1e03f554b7.png
 [github]: https://cloud.githubusercontent.com/assets/12953472/18687862/de8df31e-7f79-11e6-937c-f20c0e0ee2b4.png
+[linkedin profile]: https://img.shields.io/badge/LinkedIn-%232A6AC7?style=for-the-badge&logo=linkedin
+[medium profile]: https://img.shields.io/badge/Medium_blog-%2312100E?style=for-the-badge&logo=medium&logoColor=white
+[email]: https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white
+[codewars profile]: https://img.shields.io/badge/CodeWars-%23AD2C27?style=for-the-badge&logo=codewars&logoColor=white
