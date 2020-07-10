@@ -1,4 +1,24 @@
-## Ed Ancerys
+# Ed Ancerys
+
+<h2 align="center">
+
+<a href="https://sourcerer.io/edancerys"><img src="https://img.shields.io/badge/Ruby-533%20commits-red.svg" alt=""></a>
+<a href="https://sourcerer.io/edancerys"><img src="https://img.shields.io/badge/JavaScript-490%20commits-yellow.svg" alt=""></a>
+<a href="https://sourcerer.io/edancerys"><img src="https://img.shields.io/badge/CSS-481%20commits-blue.svg" alt=""></a>
+<a href="https://sourcerer.io/edancerys"><img src="https://img.shields.io/badge/HTML-298%20commits-orange.svg" alt=""></a>
+<a href="https://sourcerer.io/edancerys"><img src="https://img.shields.io/badge/SQL-142%20commits-success.svg" alt=""></a>
+
+</h2>
+
+I am a Full Stack developer, looking for opportunities to continue to learn, challenge myself and work with great people to build useful apps that consumers enjoy using.
+
+I'm passionate about the intersection of technology and creativity. I am self-taught and have been working as a Web Designer for the past three years, which has allowed me to gain skills in Front-End design and implementation, as well as UI/UX design.
+
+I have recently completed training at Makers Academy (London's leading programming bootcamp), to learn best practices, tools and methodologies.
+
+Driven and ambitious Software Developer with collaborative skills and strong attention to detail.
+
+I' am a strong believer in the use of agile methodologies that helps to drive and manage team projects. Recent Makers Academy graduate who's looking for opportunities to continue to learn, challenge myself, and work with great people.
 
 Highly qualified, tenacious, and well-accomplished professional armed with broad-based background and skills in the areas of retail management in early 2020 I took up the well-known [**Makers Academy**][2] web development course, where I learned the fundamentals of software development by working on different, challenging projects in teams.
 
