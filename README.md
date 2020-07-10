@@ -1,15 +1,15 @@
-# Ed Ancerys
+<h1 align="center">
 
-<div align="center">
-
-[![LinkedIn Profile]](https://www.linkedin.com/in/ed-a-b61a5b25/)
-[![Medium Profile]](https://medium.com/@lookatemail)
-[![Email]](mailto:lookatemail@gmail.com)
-[![CodeWars Profile]](https://www.codewars.com/users/EdAncerys)
+Ed Ancerys
 
 </div>
 
-<h2 align="center">
+<h1 align="center">
+
+[![LinkedIn Profile]](https://www.linkedin.com/in/ed-a-b61a5b25/)
+[![Email]](mailto:lookatemail@gmail.com)
+[![Medium Profile]](https://medium.com/@lookatemail)
+[![CodeWars Profile]](https://www.codewars.com/users/EdAncerys)
 
 <a href="https://sourcerer.io/edancerys"><img src="https://img.shields.io/badge/Ruby-533%20commits-red.svg" alt=""></a>
 <a href="https://sourcerer.io/edancerys"><img src="https://img.shields.io/badge/JavaScript-490%20commits-yellow.svg" alt=""></a>
@@ -39,48 +39,121 @@ Recent [Makers Academy](https://makers.tech/) graduate where I have grown as a p
 
 ### <a id="skills">Skills & Qualities</a>
 
-- **Quick Study** - Able to take on new technologies and learn new practices rapidly and efficiently. I actively sought out challenges during the Makers Academy course.
+- **Quick & Study** - Able to take on new technologies and learn new practices rapidly and efficiently. I actively sought out challenges during the Makers Academy course.
 - **Adaptable** - New environments, new languages, new teams, new challenges. None of these are problems, only opportunities. I have worked in a few countries around the world with a huge diversity of teams. There is always a way to connect.
 - **Good communicator** - Skilled in communicating effectively with strong interpersonal and organizational skills.
 - **Team-player**- Ability to work with others to achieve goals. Detail and result oriented. Always comfortable finding my place in a team, whether that calls for knuckling down and getting my hands dirty or offering leadership when the situation arises.
 - **Attention to detail** - In my previous experience being in management, I have developed an extremely keen eye for the fine details. This comes through in my coding, from seeing how the whole code fits in together.
 - **Enthusiastic** - I am highly motivated and unafraid of challenges. I do not shy away from difficult or time-consuming tasks.
 - **Commitment** - I completed the 3 months of Makers Academy coding bootcamp as a remote student. This required discipline and focus – with a considerable helping of self-belief.
-- **Goal orientated** - Achieving goals, creative/strategic thinking, and problem-solving.
 - **Diligent** - Excellent ethics, hardworking, focus minded and sound organizational ability.
 - **Collaborator** - A friendly, passionate and confident communicator. Able to build lasting relationships with people.
 
 ---
 
-### <a id="projects">Projects & Code</a>
+### <a id="projects">Projects</a>
 
-| Project                 | Description                                                                                                                                     | Code/Demo Links                                            | Technologies Used                                                 | Testing Technologies |
-| :---------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------- | :---------------------------------------------------------------- | -------------------- |
-| [Bank tech test][01]    | Using best coding practice, OOP & TDD skills solve a challenging technical problem by writing well crafted code                                 | [![heroku-logo][github]][01]                               | Ruby                                                              | RSpec                |
-| [acebook][02]           | Facebook app clone done by taking TDD approach                                                                                                  | [![heroku-logo][github]][02] [![heroku-logo][heroku]][021] | Ruby, JavaScript, Rails, Bootstrap, Active record, Active Storage | RSpec, Capybara      |
-| [Testing framework][03] | A testing framework for Javascript in the browser, loosely based on jasmine syntax. This was developed as an exercise while coaching at Makers. | [![heroku-logo][github]][03]                               | JavaScript                                                        | N/A                  |
+| Project/GitHub       | Details                                                                                                                              | Tech Stack                                         | Testing Framework |
+| -------------------- | ------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------- | ----------------- |
+| **[ThereAndBack]**   | A web mapping app that solves the problem of the user who wants to find a circular route for outdoor activities                      | React, Firebase, Leaflet, Bootstrap                | Cypress, Istanbul |
+| **[Bank Tech Test]** | A CLI program emulating a bank account, showcasing test driven development.                                                          | Ruby                                               | RSpec             |
+| **[Acebook]**        | Acebook - a clone of Facebook, with similar functionality and features as original web page.                                         | Ruby on Rails, Rubocop, Bootstrap, HTML, CSS       | Capybara, RSpec   |
+| **[MakersBnB]**      | Create a clone app of Airbnb in Ruby. This is a group project focused on pair programing and delivering MPV utilizing XP principles. | Sinatra, PostgreSQL, Rubocop, Bootstrap, HTML, CSS | Capybara, RSpec   |
 
-### More coming up soon ...
+\*A full summary of all my projects and source code available on GitHub: [EdAncerys][1]
 
-\*All source code available on Github: [EdAncerys][1]
+### Technical Knowledge
+
+I have worked with a variety of languages, technologies and softwares.
+
+<table>
+  <thead>
+    <tr>
+      <th>Languages</th>
+      <th>Technologies</th>
+      <th>Testing Frameworks</th>
+      <th>Concepts</th>
+      <th>Tools</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="vertical-align: top">
+        <ul>
+          <li>Ruby</li>
+          <li>JavaScript</li>
+          <li>HTML5</li>
+          <li>CSS3</li>
+        </ul>
+      </td>
+      <td style="vertical-align: top">
+        <ul>
+          <li>Rails</li>
+          <li>Sinatra</li>
+          <li>Node.js</li>
+          <li>jQuery</li>
+          <li>React</li>
+          <li>PostgreSQL</li>
+          <li>Firebase</li>
+          <li>TravisCI</li>
+          <li>Heroku</li>
+          <li>Surge</li>
+        </ul>
+      </td>
+      <td style="vertical-align: top">
+        <ul>
+          <li>RSpec</li>
+          <li>Capybara</li>
+          <li>Jasmine</li>
+          <li>Cypress</li>
+        </ul>
+      </td>
+      <td style="vertical-align: top">
+        <ul>
+          <li>XP/Agile methodology</li>
+          <li>TDD/BDD</li>
+          <li>Object Oriented Design</li>
+          <li>Remote working</li>
+          <li>Pair programming</li>
+          <li>Continuous Integration & Deployment</li>
+          <li>Git workflow</li>
+          <li>Code review</li>
+          <li>MVC Pattern</li>
+          <li>RESTful APIs</li>
+        </ul>
+      </td>
+      <td style="vertical-align: top">
+        <ul>
+          <li>VSCode</li>
+          <li>Git</li>
+          <li>Trello</li>
+          <li>Insomnia</li>
+          <li>Docker</li>
+          <li>macOS</li>
+        </ul>
+      </td>
+    </tr>
+
+  </tbody>
+</table>
 
 ---
 
 ### <a id="education">Education</a>
 
-#### Makers Academy (April 2020 to July 2020)
+#### [Makers Academy](https://makers.tech/) (April 2020 to July 2020)
 
 Makers Academy is Europe's leading, ultra-selective web development boot camp in London. Founded by Rob Johnson and Evgeny Shadchnev in December 2012.
 
-- Focus on Test Driven Development, with an emphasis on pair programming and working in an agile way
-- Full-stack web development
-- Experience in: Ruby, Rails, React, Node.js, Javascript, JQuery, PostgreSQL, Jasmine, RSpec, Capybara, Git, Heroku.
+- Focus on Test Driven Development, with an emphasis on pair programming and working in an agile way.
+- Full-stack web development.
+- Experience in: Ruby, Rails, React, Node.js, Javascript, JQuery, PostgreSQL, Firebase, Jasmine, RSpec, Capybara, Git, Heroku.
 - TDD /BDD and coding in agile teams, operating with XP values.
 - Extensive pair-programming with 4-6 person teams.
-- Daily standups and retros; weekly 360 feedback
-- Learned how to learn fast, problem-solving, and giving constructive feedback. Confident in principles of SOLID, DRY (refactoring), MVC with CRUD
+- Daily standups and retros; weekly 360 feedback.
+- Learned how to learn fast, problem-solving, and giving constructive feedback. Confident in principles of SOLID, DRY (refactoring), MVC with CRUD.
 
-#### Vilnius Gediminas Technical University (September 2007 to July 2009)
+#### [Vilnius Gediminas Technical University](https://www.vgtu.lt/index.php?lang=2) (September 2007 to July 2009)
 
 **Master’s degree in Civil Engineering**
 
@@ -88,7 +161,7 @@ Makers Academy is Europe's leading, ultra-selective web development boot camp in
   the structure.
   Theory and methods of optimization and techniques. Scientific research fundamentals
 
-#### Vilnius Gediminas Technical University (September 2003 to July 2007)
+#### [Vilnius Gediminas Technical University](https://www.vgtu.lt/index.php?lang=2) (September 2003 to July 2007)
 
 **Bachelor’s degree in Civil Engineering**
 
@@ -120,49 +193,26 @@ _Assistant Manager_
 Responsible for the shop operation on a daily basis and all aspects of the business (“family tree”, team, customers, H&S, standards, planning, and forecasting).
 Tracked the progress of weekly, monthly, quarterly, and annual objectives. Supervised and motivated staff to perform their best.
 
-**VilProjectas, Vilnius, LT** (Oct 2008 to Oct 2009)  
-_Architectural CAD technician_  
-Meeting with Engineers, Draftsmen, and Designers to review blueprints and design drawings.  
-Creating surface and solid CAD models according to client specifications.  
-Working with a design team and individually on CAD projects.
-
-**Archidata, Vilnius, LT** (Apr 2006 to Sept 2008)  
-_Architectural CAD technician_  
-Inputting design specifications into the CAD software.
-
 ---
 
 ### <a id="hobbies">Hobbies</a>
 
-- **Motorcycles** - Enjoy all travel-related activities and owning a motorcycle gave me one of the most memorable travels I ever had. One of the most spectacular travels been a two-week trip from London (UK) to A Coruña (Spain).
+- **Travel** - Lived in four countries and traveled to many many more - a true passion of mine.
 - **Running** - Exercise as part of the lifestyle.
+- **Motorcycles** - Enjoy all travel-related activities and owning a motorcycle gave me one of the most memorable travels I ever had. One of the most spectacular travels been a two-week trip from London (UK) to A Coruña (Spain).
 - **Badminton** - played professionally in the early days and now as a hobby.
 - **Learning new languages** - Learning Spanish as a secondary language.
-- **Meet-ups** - Actively participating in meet-ups, to learn new languages, dancing, social. Always looking to discover and learn new things.
+- **Meetup's** - Actively participating in meet-ups, to learn new languages, dancing, social. Always looking to discover and learn new things.
 
----
+  [1]: https://github.com/EdAncerys
+  [ThereAndBack]: https://github.com/AndrewHulme/route_planner
+  [Bank Tech Test]: https://github.com/EdAncerys/bank_tech_test
+  [Acebook]: https://github.com/EdAncerys/acebook-HoneyBunnies
+  [MakersBnB]: https://github.com/EdAncerys/MakersBnB
 
-### <a id="contact">Contact</a>
-
-- GitHub: [EdAncerys][1]
-- Email: lookatemail@gmail.com
-- Medium [Profile][6]
-- Codewars [Profile][3]
-- Slack: [Ed Ancerys][4]
-
-[1]: https://github.com/EdAncerys
-[2]: https://makers.tech/
-[3]: http://www.codewars.com/users/EdAncerys
-[4]: https://edancerys.slack.com/team/USYFD1A6P
-[5]: https://cloud.githubusercontent.com/assets/12953472/18688266701982fc-7f7b-11e6-8971-5f1e03f554b7.png
-[6]: https://medium.com/@lookatemail
-[01]: https://github.com/EdAncerys/bank_tech_test
-[02]: https://github.com/EdAncerys/acebook-HoneyBunnies
-[021]: https://acebook-honeybunnies.herokuapp.com
-[03]: https://github.com/EdAncerys/JS-Testing-Framework
-[heroku]: https://cloud.githubusercontent.com/assets/12953472/18688266/701982fc-7f7b-11e6-8971-5f1e03f554b7.png
-[github]: https://cloud.githubusercontent.com/assets/12953472/18687862/de8df31e-7f79-11e6-937c-f20c0e0ee2b4.png
-[linkedin profile]: https://img.shields.io/badge/LinkedIn-%232A6AC7?style=for-the-badge&logo=linkedin
-[medium profile]: https://img.shields.io/badge/Medium_blog-%2312100E?style=for-the-badge&logo=medium&logoColor=white
-[email]: https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white
-[codewars profile]: https://img.shields.io/badge/CodeWars-%23AD2C27?style=for-the-badge&logo=codewars&logoColor=white
+  [heroku]: https://cloud.githubusercontent.com/assets/12953472/18688266/701982fc-7f7b-11e6-8971-5f1e03f554b7.png
+  [github]: https://cloud.githubusercontent.com/assets/12953472/18687862/de8df31e-7f79-11e6-937c-f20c0e0ee2b4.png
+  [linkedin profile]: https://img.shields.io/badge/LinkedIn-%232A6AC7?style=for-the-badge&logo=linkedin
+  [medium profile]: https://img.shields.io/badge/Medium_blog-%2312100E?style=for-the-badge&logo=medium&logoColor=white
+  [email]: https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white
+  [codewars profile]: https://img.shields.io/badge/CodeWars-%23AD2C27?style=for-the-badge&logo=codewars&logoColor=white
