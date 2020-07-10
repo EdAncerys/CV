@@ -46,20 +46,20 @@ Recent [Makers Academy](https://makers.tech/) graduate where I have grown as a p
 - **Team-player**- Ability to work with others to achieve goals. Detail and result oriented. Always comfortable finding my place in a team, whether that calls for knuckling down and getting my hands dirty or offering leadership when the situation arises.
 - **Attention to detail** - In my previous experience being in management, I have developed an extremely keen eye for the fine details. This comes through in my coding, from seeing how the whole code fits in together.
 - **Enthusiastic** - I am highly motivated and unafraid of challenges. I do not shy away from difficult or time-consuming tasks.
-- **Commitment** - I completed the 3 months of Makers Academy coding bootcamp as a remote student. This required discipline and focus – with a considerable helping of self-belief.
-- **Diligent** - Excellent ethics, hardworking, focus minded and sound organizational ability.
-- **Collaborator** - A friendly, passionate and confident communicator. Able to build lasting relationships with people.
+- **Commitment** - I completed the 3 months of Makers Academy coding Bootcamp as a remote student. This required discipline and focus – with a considerable helping of self-belief.
+- **Diligent** - Excellent ethics, hardworking, focus, and sound organizational ability.
+- **Collaborator** - A friendly, passionate, and confident communicator. Able to build lasting relationships with people.
 
 ---
 
 ### <a id="projects">Projects</a>
 
-| Project/GitHub       | Details                                                                                                                              | Tech Stack                                         | Testing Framework |
-| -------------------- | ------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------- | ----------------- |
-| **[ThereAndBack]**   | A web mapping app that solves the problem of the user who wants to find a circular route for outdoor activities                      | React, Firebase, Leaflet, Bootstrap                | Cypress, Istanbul |
-| **[Bank Tech Test]** | A CLI program emulating a bank account, showcasing test driven development.                                                          | Ruby                                               | RSpec             |
-| **[Acebook]**        | Acebook - a clone of Facebook, with similar functionality and features as original web page.                                         | Ruby on Rails, Rubocop, Bootstrap, HTML, CSS       | Capybara, RSpec   |
-| **[MakersBnB]**      | Create a clone app of Airbnb in Ruby. This is a group project focused on pair programing and delivering MPV utilizing XP principles. | Sinatra, PostgreSQL, Rubocop, Bootstrap, HTML, CSS | Capybara, RSpec   |
+| Project/GitHub       | Details                                                                                                                               | Tech Stack                                         | Testing Framework |
+| -------------------- | ------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------- | ----------------- |
+| **[ThereAndBack]**   | A web mapping app that solves the problem of the user who wants to find a circular route for outdoor activities                       | React, Firebase, Leaflet, Bootstrap                | Cypress, Istanbul |
+| **[Bank Tech Test]** | A CLI program emulating a bank account, showcasing test-driven development.                                                           | Ruby                                               | RSpec             |
+| **[Acebook]**        | Acebook - a clone of Facebook, with similar functionality and features as an original web page.                                       | Ruby on Rails, Rubocop, Bootstrap, HTML, CSS       | Capybara, RSpec   |
+| **[MakersBnB]**      | Create a clone app of Airbnb in Ruby. This is a group project focused on pair programming and delivering MPV utilizing XP principles. | Sinatra, PostgreSQL, Rubocop, Bootstrap, HTML, CSS | Capybara, RSpec   |
 
 \*A full summary of all my projects and source code available on GitHub: [EdAncerys][1]
 
