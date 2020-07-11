@@ -2,7 +2,7 @@
 
 Ed Ancerys
 
-</div>
+</h1>
 
 <h1 align="center">
 
@@ -17,7 +17,7 @@ Ed Ancerys
 <a href="https://sourcerer.io/edancerys"><img src="https://img.shields.io/badge/HTML-298%20commits-orange.svg" alt=""></a>
 <a href="https://sourcerer.io/edancerys"><img src="https://img.shields.io/badge/SQL-142%20commits-success.svg" alt=""></a>
 
-</h2>
+</h1>
 
 Driven and ambitious Software Developer with collaborative skills and strong attention to detail, looking for opportunities to continue to learn, challenge myself, and work with great people.
 
@@ -29,9 +29,9 @@ Recent [Makers Academy](https://makers.tech/) graduate where I have grown as a p
 
 [![skills](https://img.shields.io/badge/-Skills-inactive?style=for-the-badge)](#skills)
 [![projects](https://img.shields.io/badge/-Projects-inactive?style=for-the-badge)](#projects)
+[![Technical Knowledge](https://img.shields.io/badge/-Technical_Knowledge-inactive?style=for-the-badge)](#Knowledge)
 [![education](https://img.shields.io/badge/-Education-inactive?style=for-the-badge)](#education)
 [![experience](https://img.shields.io/badge/-Experience-inactive?style=for-the-badge)](#experience)
-[![Technical Knowledge](https://img.shields.io/badge/-Technical_Knowledge-inactive?style=for-the-badge)](#Technical-Knowledge)
 [![hobbies & interests](https://img.shields.io/badge/-Hobbies_and_interests-inactive?style=for-the-badge)](#hobbies)
 
 </div>
@@ -63,7 +63,7 @@ Recent [Makers Academy](https://makers.tech/) graduate where I have grown as a p
 
 \*A full summary of all my projects and source code available on GitHub: [EdAncerys][1]
 
-### Technical Knowledge
+### <a id="knowledge">Technical Knowledge</a>
 
 I have worked with a variety of languages, technologies and softwares.
 
